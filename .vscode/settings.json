@@ -1,12 +1,14 @@
 {
-  "editor.formatOnSave": true,
-  "editor.formatOnPaste": true,
-  "editor.autoIndent": "advanced",
-  "editor.rulers": [
-    100
-  ],
-  "files.trimTrailingWhitespace": true,
-  "files.insertFinalNewline": true,
-  "python.linting.enabled": true,
-  "python.terminal.activateEnvironment": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.autoIndent": "advanced",
+    "editor.rulers": [
+        100
+    ],
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "python.linting.enabled": true,
+    "python.terminal.activateEnvironment": true,
+    "python.defaultInterpreterPath": ".venv\\Scripts\\python.exe",
+    "python.terminal.activateEnvironment": true
 }
